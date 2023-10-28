@@ -1,0 +1,11 @@
+﻿  OpenGLTest.cpp
+C:\Users\nikhi\source\repos\OpenGLTest\OpenGLTest\OpenGLTest.cpp(92,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nikhi\source\repos\OpenGLTest\OpenGLTest\OpenGLTest.cpp(95,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nikhi\source\repos\OpenGLTest\OpenGLTest\OpenGLTest.cpp(284,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\nikhi\source\repos\OpenGLTest\OpenGLTest\OpenGLTest.cpp(534,38): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\nikhi\source\repos\OpenGLTest\OpenGLTest\OpenGLTest.cpp(535,42): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\nikhi\source\repos\OpenGLTest\OpenGLTest\OpenGLTest.cpp(536,42): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\nikhi\source\repos\OpenGLTest\OpenGLTest\OpenGLTest.cpp(594,46): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\nikhi\source\repos\OpenGLTest\OpenGLTest\OpenGLTest.cpp(595,50): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\nikhi\source\repos\OpenGLTest\OpenGLTest\OpenGLTest.cpp(596,50): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+  OpenGLTest.vcxproj -> C:\Users\nikhi\source\repos\OpenGLTest\x64\Debug\OpenGLTest.exe
